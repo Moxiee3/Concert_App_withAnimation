@@ -6,4 +6,4 @@ On day 16 of the “30 Days 30 Apps” challenge, we will create a Concerts app 
 
 ## Preview
 
-[![Demo Video](C:\Users\ilham maulaa\Videos\Captures/to/video.mp4)] (https://github.com/user-attachments/assets/8b868cef-6385-486c-8e7b-79a2344d06d7)
+[![Demo Video](https://github.com/user-attachments/assets/8b868cef-6385-486c-8e7b-79a2344d06d7)]
