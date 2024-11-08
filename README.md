@@ -1,16 +1,11 @@
 # tiket_konser_app
 
-A new Flutter project.
+On day 16 of the “30 Days 30 Apps” challenge, we will create a Concerts app with Animation that provides users with a visually engaging experience to explore concerts and music shows. The app will present information about upcoming concerts, including locations, dates, and artists, while adding animated elements to enhance interactivity and visual appeal.
 
-## Getting Started
+# Introduction Screens using Flutter
 
-This project is a starting point for a Flutter application.
+## Preview
 
-A few resources to get you started if this is your first Flutter project:
+[![Demo Video](https://github.com/user-attachments/assets/26c3ab70-1046-4d1a-aa96-71638f734c6e
+)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
